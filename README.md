@@ -1,2 +1,22 @@
-# City-Skyline
-City Skyline is a dynamic urban landscape simulation project built with HTML and CSS. Experience a visually captivating representation of a city skyline with creative use of CSS to mimic buildings and windows. Dive into the simulation and explore the bustling cityscape right from your browser.
+# City Skyline
+
+City Skyline is a project that simulates an urban landscape using HTML and CSS. It creates a visually appealing representation of a city skyline with buildings and windows.
+
+## Features
+
+- Dynamic city skyline simulation using HTML and CSS.
+- Responsive design for compatibility across different devices.
+- Creative use of CSS to replicate buildings and windows.
+- Cross-browser compatibility ensured for a seamless user experience.
+
+## Demo
+
+Check out the live demo [here](link-to-demo).
+
+## Usage
+
+To view the city skyline simulation, simply open the `index.html` file in a web browser.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
