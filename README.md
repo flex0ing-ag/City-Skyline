@@ -7,11 +7,11 @@ City Skyline is a project that simulates an urban landscape using HTML and CSS. 
 - Dynamic city skyline simulation using HTML and CSS.
 - Responsive design for compatibility across different devices.
 - Creative use of CSS to replicate buildings and windows.
-- Cross-browser compatibility ensured for a seamless user experience.
+- Cross-browser compatibility ensured a seamless user experience.
 
 ## Demo
 
-Check out the live demo [here](link-to-demo).
+Check out the live demo [here](https://flex0ing-ag.github.io/City-Skyline/).
 
 ## Usage
 
